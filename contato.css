@@ -1,0 +1,7 @@
+input:invalid, textarea: invalid {
+     border-color: #FF0000;
+}
+
+input:valid, textarea: valid {
+     border-color: #00FF00;
+ }
